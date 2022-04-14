@@ -1,1 +1,2 @@
 // PRESENTE
+// AUSENT E
